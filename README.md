@@ -1,4 +1,4 @@
-# youtubetospotify
+# Youtube to Spotify - work in progress
 
 I am still currently trying to work on troubleshooting this script.
 
